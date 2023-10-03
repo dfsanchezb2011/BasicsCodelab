@@ -81,7 +81,6 @@ private fun Greetings(
     }
 }
 
-
 @Preview(showBackground = true, widthDp = 320, heightDp = 320, name = "OnBoardingPreview")
 @Composable
 fun OnboardingPreview() {
